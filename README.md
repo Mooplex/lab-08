@@ -5,7 +5,7 @@
 - **CCID:** `msawalha `
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+- Claude (Anthropic), Claude Opus 5.5, used to help explain github actions and write the restoreMana and train tests.
 
 ## Verbal Collaboration
 List students' names and CCIDs here, or simply put `N/A` if not applicable. 
